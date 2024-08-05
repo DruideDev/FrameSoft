@@ -10,5 +10,5 @@
             "type": "chrome",
             "url": "https://supersegacd.github.io/Anigames.org/",
             "webRoot": "${workspaceFolder}"
-        },
+        }
         

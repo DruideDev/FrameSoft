@@ -4,3 +4,7 @@
     font-weight: normal;
     font-style: normal;
 }
+
+.logo {
+    font-family: 'MyFont', 'Kometa-bold';
+}
