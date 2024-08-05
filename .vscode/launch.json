@@ -5,10 +5,26 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Launch a site",
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8000",
+            "webRoot": "${workspaceFolder}"
+        },
+
+        {
+            "name": "pfg",
             "request": "launch",
             "type": "chrome",
             "url": "https://supersegacd.github.io/Anigames.org/",
             "webRoot": "${workspaceFolder}"
-        }
-        
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch HTML",
+            "file": "D:\HTML CSS\anigames.org\Anigames.org\index.html",
+            "webRoot": "${workspaceFolder}"
+          }
+        ]
+      }
