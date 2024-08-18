@@ -10,8 +10,8 @@ import{getFirestore, setDoc, doc} from "https://www.gstatic.com/firebasejs/10.11
     projectId: "framesoftware-fc1a2",
     storageBucket: "framesoftware-fc1a2.appspot.com",
     messagingSenderId: "290009632449",
-    appId: "1:290009632449:web:fd945d5ec6a08b4b3e0e40",
-    measurementId: "G-N0K5M369RQ"
+    appId: "1:290009632449:web:05ea44b0190f1eaf3e0e40",
+    measurementId: "G-G25DD3BRWQ"
 };
 
 // Initialize Firebase
